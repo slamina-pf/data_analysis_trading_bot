@@ -1,0 +1,62 @@
+{
+    "close_step_1": [
+        "low",
+        "DONCHIAN_LOW",
+        "DONCHIAN_MIDDLE",
+        "KAMA",
+        "WMA",
+        "BBANDS_MIDDLE",
+        "close",
+        "KELTNER_MIDDLE",
+        "dayofyear",
+        "EMA",
+        "close_step_5"
+    ],
+    "close_step_2": [
+        "low",
+        "DONCHIAN_LOW",
+        "KAMA",
+        "DONCHIAN_MIDDLE",
+        "WMA",
+        "KELTNER_MIDDLE",
+        "BBANDS_MIDDLE",
+        "close",
+        "EMA",
+        "dayofyear",
+        "close_step_5",
+        "KELTNER_LOW",
+        "VWAP"
+    ],
+    "close_step_3": [
+        "low",
+        "DONCHIAN_LOW",
+        "KAMA",
+        "BBANDS_MIDDLE",
+        "close_step_5",
+        "DONCHIAN_MIDDLE",
+        "KELTNER_MIDDLE",
+        "WMA",
+        "EMA",
+        "dayofyear",
+        "KELTNER_LOW",
+        "close",
+        "close_step_6",
+        "VWAP",
+        "BBANDS_LOWER"
+    ],
+    "close_step_4": [
+        "DONCHIAN_LOW",
+        "low",
+        "close_step_6",
+        "BBANDS_MIDDLE",
+        "KELTNER_MIDDLE",
+        "close_step_5",
+        "KAMA",
+        "DONCHIAN_MIDDLE",
+        "WMA",
+        "KELTNER_LOW",
+        "EMA",
+        "BBANDS_LOWER",
+        "close"
+    ]
+}
