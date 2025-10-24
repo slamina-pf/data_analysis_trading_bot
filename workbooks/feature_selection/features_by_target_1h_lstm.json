@@ -1,0 +1,18 @@
+{
+    "close": [
+        "high",
+        "low",
+        "DONCHIAN_MIDDLE",
+        "KAMA",
+        "DONCHIAN_HIGH",
+        "EMA",
+        "DONCHIAN_LOW",
+        "VWAP",
+        "SMA",
+        "BBANDS_LOWER",
+        "BBANDS_HIGH",
+        "open",
+        "ADI",
+        "WMA"
+    ]
+}

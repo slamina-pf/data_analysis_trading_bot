@@ -1,0 +1,63 @@
+{
+    "close_step_1": [
+        "close",
+        "low",
+        "high",
+        "WMA",
+        "DONCHIAN_HIGH",
+        "BBANDS_MIDDLE",
+        "DONCHIAN_LOW",
+        "KAMA",
+        "SMA",
+        "VWAP",
+        "DONCHIAN_MIDDLE",
+        "BBANDS_HIGH",
+        "BBANDS_LOWER",
+        "ADI"
+    ],
+    "close_step_2": [
+        "close",
+        "WMA",
+        "high",
+        "KAMA",
+        "low",
+        "DONCHIAN_HIGH",
+        "DONCHIAN_LOW",
+        "VWAP",
+        "DONCHIAN_MIDDLE",
+        "BBANDS_LOWER",
+        "KELTNER_LOW",
+        "BBANDS_HIGH",
+        "ADI",
+        "SMA"
+    ],
+    "close_step_3": [
+        "close",
+        "high",
+        "WMA",
+        "KAMA",
+        "low",
+        "DONCHIAN_HIGH",
+        "VWAP",
+        "DONCHIAN_LOW",
+        "DONCHIAN_MIDDLE",
+        "BBANDS_LOWER",
+        "SMA",
+        "EMA",
+        "KELTNER_LOW"
+    ],
+    "close_step_4": [
+        "close",
+        "high",
+        "WMA",
+        "KAMA",
+        "low",
+        "DONCHIAN_HIGH",
+        "EMA",
+        "VWAP",
+        "DONCHIAN_LOW",
+        "DONCHIAN_MIDDLE",
+        "KELTNER_LOW",
+        "BBANDS_LOWER"
+    ]
+}
