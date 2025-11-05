@@ -3,17 +3,14 @@
         "high",
         "low",
         "DONCHIAN_HIGH",
-        "BBANDS_MIDDLE",
-        "VWAP",
         "DONCHIAN_LOW",
-        "EMA",
+        "KELTNER_HIGH",
         "KAMA",
-        "BBANDS_HIGH",
-        "ADI",
-        "KELTNER_LOW",
-        "quarter",
-        "KELTNER_MIDDLE",
+        "VWAP",
         "WMA",
-        "DONCHIAN_MIDDLE"
+        "DONCHIAN_MIDDLE",
+        "ADI",
+        "BBANDS_LOWER",
+        "BBANDS_HIGH"
     ]
 }
